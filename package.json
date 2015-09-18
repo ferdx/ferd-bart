@@ -1,6 +1,6 @@
 {
   "name": "ferd-bart",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "FerdX module that allows Ferd to display the Bart schedule",
   "main": "bart.js",
   "scripts": {
@@ -17,7 +17,7 @@
       "name": "David Rosson"
     }
   ],
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "underscore": "^1.8.3",
     "working-bart": "0.0.1"

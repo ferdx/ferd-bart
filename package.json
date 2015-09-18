@@ -1,6 +1,6 @@
 {
   "name": "ferd-bart",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "description": "FerdX module that allows Ferd to display the Bart schedule",
   "main": "bart.js",
   "scripts": {
@@ -19,12 +19,12 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "bart": "0.0.3",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "working-bart": "0.0.1"
   },
-  "_id": "ferd-bart@0.0.2",
-  "_shasum": "03a72d5aca4f13e1170b19923ea3e279dcffe1c2",
-  "_from": "ferd-bart@0.0.2",
+  "_id": "ferd-bart@0.0.6",
+  "_shasum": "f21f67ea0d3e6f0b571cf2457c3b2fda08b975a3",
+  "_from": "ferd-bart@latest",
   "_npmVersion": "2.14.1",
   "_nodeVersion": "0.12.7",
   "_npmUser": {
@@ -42,5 +42,6 @@
     }
   ],
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/ferd-bart/-/ferd-bart-0.0.2.tgz"
+  "_resolved": "https://registry.npmjs.org/ferd-bart/-/ferd-bart-0.0.2.tgz",
+  "readme": "ERROR: No README data found!"
 }
